@@ -5,31 +5,22 @@ It can scan a directory structure for popular dynamic web applications and was w
 
 The tool supports most of the popular dynamic web applications used on a web hosting environment such as SiteGround.
 
-###################################################################################
-#                            ULTIMATE SUPPORT TOOL v1.0                           #
-#                                   WRITTEN  BY                                   #
-#                       GEORGI GEORGIEV DIMITROV (GGD07.com)                      #
-#                           FOR VARIOUS WEB APPLICATIONS                          #
-#                                                                                 #
-#                           CONTACT: GGD07COM@GMAIL.COM                           #
-#                                                                                 #
-###################################################################################
-# Ultimate Support Tools written to be used to automate work as Technical Support #
-#    Copyright (C) 2015  Georgi Georgiev Dimitrov (Ggd07.com)                     #
-#                                                                                 #
-#    This program is free software: you can redistribute it and/or modify         #
-#    it under the terms of the GNU General Public License as published by         #
-#    the Free Software Foundation, either version 3 of the License, or            #
-#    (at your option) any later version.                                          #
-#                                                                                 #
-#    This program is distributed in the hope that it will be useful,              #
-#    but WITHOUT ANY WARRANTY; without even the implied warranty of               #
-#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the                #
-#    GNU General Public License for more details.                                 #
-#                                                                                 #
-#    You should have received a copy of the GNU General Public License            #
-#    along with this program.  If not, see <http://www.gnu.org/licenses/>.        #
-###################################################################################
+Ultimate Support Tools written to be used to automate work as Technical Support
+Copyright (C) 2015  Georgi Georgiev Dimitrov (Ggd07.com)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+     
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
 
 I. Applications supported:
 
@@ -58,12 +49,12 @@ II. Actions supported:
   
 III. Options available when launching the tool:
 
-  -i SCAN AND DISPLAY APPLICATION LOCATION
-  -w SCAN AND ANALYZE INSTALLED WORDPRESS APPLICATIONS
-  -j SCAN AND ANALYZE INSTALLED JOOMLA APPLICATIONS
-  -m SCAN AND ANALYZE INSTALLED MAGENTO APPLICATIONS
-  -d SCAN AND ANALYZE INSTALLED DRUPAL APPLICATIONS
-  -p SCAN AND ANALYZE INSTALLED PRESTASHOP APPLICATIONS
-  -f FIX FILE PERMISSIONS (644) AND DIRECTORY PERMISSIONS (755)
+  - "-i" SCAN AND DISPLAY APPLICATION LOCATION
+  - "-w" SCAN AND ANALYZE INSTALLED WORDPRESS APPLICATIONS
+  - "-j" SCAN AND ANALYZE INSTALLED JOOMLA APPLICATIONS
+  - "-m" SCAN AND ANALYZE INSTALLED MAGENTO APPLICATIONS
+  - "-d" SCAN AND ANALYZE INSTALLED DRUPAL APPLICATIONS
+  - "-p" SCAN AND ANALYZE INSTALLED PRESTASHOP APPLICATIONS
+  - "-f" FIX FILE PERMISSIONS (644) AND DIRECTORY PERMISSIONS (755)
   
 IV. How to use the tool:
