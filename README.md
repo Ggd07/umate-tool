@@ -48,7 +48,7 @@ You can use the tool through a SSH Connection to a server/hosting account that n
 
     - wget https://raw.githubusercontent.com/Ggd07/umate-tool/master/umate-tool.sh; chmod +x ./umate-tool.sh; ./umate-tool.sh; rm ./umate-tool.sh
 
-  2. Scan directories further in the directory structure for applications (main funcionality):
+  2. Scan directories further in the directory structure for applications and show their locations and versions.
 
     - wget https://raw.githubusercontent.com/Ggd07/umate-tool/master/umate-tool.sh; chmod +x ./umate-tool.sh; ./umate-tool.sh -i; rm ./umate-tool.sh
 
