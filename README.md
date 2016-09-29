@@ -41,3 +41,37 @@ III. Options available when launching the tool:
   - "-f" FIX FILE PERMISSIONS (644) AND DIRECTORY PERMISSIONS (755)
   
 IV. How to use the tool:
+
+You can use the tool through a SSH Connection to a server/hosting account that needs to be scanned. 
+
+  1. Simply entering this command will "display the help information" of the script:
+
+    - wget https://raw.githubusercontent.com/Ggd07/umate-tool/master/umate-tool.sh; chmod +x ./umate-tool.sh; ./umate-tool.sh; rm ./umate-tool.sh
+
+  2. Scan directories further in the directory structure for applications (main funcionality):
+
+    - wget https://raw.githubusercontent.com/Ggd07/umate-tool/master/umate-tool.sh; chmod +x ./umate-tool.sh; ./umate-tool.sh -i; rm ./umate-tool.sh
+
+  3. Scan directories only for WordPress Applications:
+
+    - wget https://raw.githubusercontent.com/Ggd07/umate-tool/master/umate-tool.sh; chmod +x ./umate-tool.sh; ./umate-tool.sh -w; rm ./umate-tool.sh
+
+  4. Scan directories only for Joomla Applications:
+
+    - wget https://raw.githubusercontent.com/Ggd07/umate-tool/master/umate-tool.sh; chmod +x ./umate-tool.sh; ./umate-tool.sh -j; rm ./umate-tool.sh
+
+  5. Scan directories only for Magento Applications:
+
+    - wget https://raw.githubusercontent.com/Ggd07/umate-tool/master/umate-tool.sh; chmod +x ./umate-tool.sh; ./umate-tool.sh -m; rm ./umate-tool.sh
+
+  6. Scan directories only for Drupal Applications:
+
+    - wget https://raw.githubusercontent.com/Ggd07/umate-tool/master/umate-tool.sh; chmod +x ./umate-tool.sh; ./umate-tool.sh -d; rm ./umate-tool.sh
+
+  7. Scan directories only for PrestaShop Applications:
+
+    - wget https://raw.githubusercontent.com/Ggd07/umate-tool/master/umate-tool.sh; chmod +x ./umate-tool.sh; ./umate-tool.sh -p; rm ./umate-tool.sh
+
+  8. Fix file permissions (set all files and folders to files(644) and folders(755) if they are not set to these permissions):
+
+    - wget https://raw.githubusercontent.com/Ggd07/umate-tool/master/umate-tool.sh; chmod +x ./umate-tool.sh; ./umate-tool.sh -f; rm ./umate-tool.sh
