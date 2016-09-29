@@ -5,23 +5,6 @@ It can scan a directory structure for popular dynamic web applications and was w
 
 The tool supports most of the popular dynamic web applications used on a web hosting environment such as SiteGround.
 
-Ultimate Support Tools written to be used to automate work as Technical Support
-Copyright (C) 2015  Georgi Georgiev Dimitrov (Ggd07.com)
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-     
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-
 I. Applications supported:
 
 - WordPress
