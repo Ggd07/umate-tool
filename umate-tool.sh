@@ -457,7 +457,5 @@ case $1 in
 		echo -e "$BLUE#####################################################################$DCOLOR";
 		echo -e "$BLUE#$GREEN -f $BLUE#$LYELLOW FIX FILE PERMISSIONS (644) AND DIRECTORY PERMISSIONS (755)$BLUE   #";
 		echo -e "$BLUE#####################################################################$DCOLOR";
-		echo -e "$BLUE#$GREEN - $BLUE#$LYELLOW $BLUE #";
-		echo -e "$BLUE#####################################################################$DCOLOR";
 		echo " ";;
 esac
