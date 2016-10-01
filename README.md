@@ -1,7 +1,7 @@
 # umate-tool
 Ultimate Support Tool (umate-tool) was written to be used to automate tasks of a Linux web hosting technician.  
 
-It can scan a directory structure for popular dynamic web applications and was written while I worked as a Technical Support representative at SiteGround in Sofia, Bulgaria.
+It can scan a directory structure for popular dynamic web applications and was written while I worked as a Technical Support representative at Web Hosting Company in Sofia, Bulgaria.
 
 The tool supports most of the popular dynamic web applications used on a web hosting environment such as SiteGround.
 
